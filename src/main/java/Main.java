@@ -22,6 +22,7 @@ public class Main {
         System.out.println(double_minus_two_point_three); // double -2.3
 
         // Bonus: Wijs een nieuwe waarde toe aan een bestaande variabele
+        string_voorbeeld = "Dit is een aangepast voorbeeld";
 
         System.out.println(string_voorbeeld); // String Dit is een aangepast voorbeeld
     }
